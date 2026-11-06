@@ -22,10 +22,10 @@ Tomorrow's networks will operate according to what the data is for. I work on ge
 
 ### Selected publications
 
-- Goal-Oriented Multiple Access Connectivity for Networked Intelligent Systems
+- Intent-Based Orchestration in Open RAN: An ns-3 Simulation Framework
+- Integrated Push-and-Pull Update Model for Goal-Oriented Effective Communication
+- Pull-Based Query Scheduling for Goal-Oriented Semantic Communication
 - Semantic Filtering and Source Coding in Distributed Wireless Monitoring Systems
-- Designing Cost- and Energy-Efficient Cell-Free Massive MIMO Network with Fiber and FSO Fronthaul Links
-- High-Speed Trains Access Connectivity Through RIS-Assisted FSO Communications
-- UAV-Assisted Underwater Sensor Networks using RF and Optical Wireless Links
+- Goal-Oriented Multiple Access Connectivity for Networked Intelligent Systems
 
 Full list on [Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID).
