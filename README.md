@@ -32,4 +32,4 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=YOUR_SCH
 
 ---
 
-<p align="center">Always open to exchanging ideas. Reach me on <a href="https://www.linkedin.com/in/pouya-agheli">LinkedIn</a> or by <a href="mailto:pouya.agheli@gmail.com">email</a>.</p>
+Always open to exchanging ideas. Reach me on <a href="https://www.linkedin.com/in/pouya-agheli">LinkedIn</a> or by <a href="mailto:pouya.agheli@gmail.com">email</a>.
