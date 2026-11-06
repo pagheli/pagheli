@@ -29,7 +29,3 @@ Tomorrow's networks will operate according to what the data is for. I work on ge
 - UAV-Assisted Underwater Sensor Networks using RF and Optical Wireless Links
 
 Full list on [Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID).
-
----
-
-Always open to exchanging ideas. Reach me on <a href="https://www.linkedin.com/in/pouya-agheli">LinkedIn</a> or by <a href="mailto:pouya.agheli@gmail.com">email</a>.
