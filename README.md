@@ -1,3 +1,5 @@
+### What I'm after
+
 Tomorrow's networks will operate according to what the data is for. I work on getting them there: turning high-level intents into decisions that lower-level RAN functions can act on, and testing those ideas from math to simulation to real radios.
 
 ### What I'm building
