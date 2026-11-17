@@ -14,14 +14,6 @@ Tomorrow's networks will operate according to what the data is for. I work on ge
 - Optimization and reinforcement learning for wireless systems
 - System-level simulation and SDR prototyping
 
-### Toolbox
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![ns-3](https://img.shields.io/badge/ns--3-2E7D32?style=flat)
-![O-RAN](https://img.shields.io/badge/O--RAN-555555?style=flat)
-![USRP](https://img.shields.io/badge/USRP%20%2F%20SDR-F57C00?style=flat)
-
 ### Selected publications
 
 - Intent-Based Orchestration in Open RAN: An ns-3 Simulation Framework
