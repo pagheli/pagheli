@@ -4,7 +4,7 @@ Tomorrow's networks will operate according to what the data is for. I work on ge
 
 ### What I'm building
 
-**[ib-ORAN](https://github.com/Orange-OpenSource/ns3-iboran)** is an open-source ns-3 simulator for intent-based orchestration in Open RAN, aligned with O-RAN Alliance and 3GPP specifications. I designed it at Orange and took it from first release through 4G LTE and 5G NR support to a USRP-based SDR testbed.
+**[ib-ORAN](https://github.com/Orange-OpenSource/ns3-iboran)** is an open-source ns-3 simulator for intent-based orchestration in Open RAN, aligned with O-RAN and 3GPP specifications. I designed it at Orange and took it from first release through 4G LTE and 5G NR support to a USRP-based SDR testbed.
 
 ### What I work on
 
