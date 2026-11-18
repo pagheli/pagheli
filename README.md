@@ -11,13 +11,11 @@ Tomorrow's networks will operate according to what the data is for. I work on ge
 - Intent translation and orchestration in Open RAN
 - Goal-oriented and semantic communication
 - Multiple access, scheduling and radio resource management
-- Optimization and reinforcement learning for wireless systems
 - System-level simulation and SDR prototyping
 
 ### Selected publications
 
 - Intent-Based Orchestration in Open RAN: An ns-3 Simulation Framework
-- Integrated Push-and-Pull Update Model for Goal-Oriented Effective Communication
 - Pull-Based Query Scheduling for Goal-Oriented Semantic Communication
 - Semantic Filtering and Source Coding in Distributed Wireless Monitoring Systems
 - Goal-Oriented Multiple Access Connectivity for Networked Intelligent Systems
